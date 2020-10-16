@@ -1,3 +1,13 @@
 .active > a{
     color: red;
 }
+.mainChatWindow{
+    border: 10px;
+    border-radius: 5%;
+    border-color: red;
+    background-color: rgb(0, 64, 255);
+}
+.top{
+    padding: 20px;
+    margin: 20px;
+}
